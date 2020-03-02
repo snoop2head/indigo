@@ -1,7 +1,7 @@
 # Open_Race_of_Development_Indie_Band
 - Don't miss any concerts for your favorite artists, with this KakaoTalk Chatbot.
   - [Click to see how it works](https://www.youtube.com/watch?v=uIOWqumaOD4)
-- 1) 공연 검색, 2) 일정 확인 및 구글 캘린더 연동: 카카오 챗봇 "Indigo"
+- 공연 검색, 일정 확인 및 구글 캘린더 연동: 카카오 챗봇 "Indigo"
   - [(모바일 환경) 카카오톡 챗봇 시연 영상](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
 
